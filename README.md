@@ -67,10 +67,10 @@ me.sayHi();
     height="30" 
     width="40" />
 </a>
-<a href="https://github.com/mutasim77" target="_blank">
+<a href="https://github.com/pushkurella" target="_blank">
   <img 
     align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"     
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"     
     alt="GithubIcon" 
     height="30" 
     width="40" />
@@ -78,7 +78,7 @@ me.sayHi();
 <a href="https://twitter.com/kurellapushpak" target="_blank">
   <img 
     align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"     
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"     
     alt="TwitterIcon" 
     height="30" 
     width="40" />
