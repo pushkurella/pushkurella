@@ -13,7 +13,7 @@ class SoftwareEngineer {
     this.name = "Pushpak Kurella";
     this.role = "Software Engineer";
     this.email = "pushpak.kurella7@gmail.com";
-    this.yearsOfExperience = 8++;
+    this.yearsOfExperience = 10++;
     this.language_spoken = ["english", "telugu", "hindi", "tamil"];
   }
 
